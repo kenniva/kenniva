@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kenniva
-- 👀 I’m interested in shopify web design
-- 🌱 I’m currently learning liquid and scss
-- 💞️ I’m looking to collaborate on custom shopify theme builds
+- 👀 I’m interested in data analysis
+- 🌱 I’m currently learning SQL, Tableau, and RapidMiner
 - 📫 How to reach me @kend.b.gray@gmail.com
 
 <!---
